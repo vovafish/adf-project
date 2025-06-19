@@ -1,0 +1,9 @@
+{
+	"name": "custdata-df-uks-test",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "37bcc11a-c922-460b-850a-70f7453efb27",
+		"tenantId": "64a5457e-c8a5-4ab9-a2ef-7bd20a5f4741"
+	}
+}
